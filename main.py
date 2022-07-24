@@ -1,4 +1,4 @@
-from calculator import soma
+from src.calculator import soma
 
 # print(soma(10, 50))
 # print(soma(-10, 50))
